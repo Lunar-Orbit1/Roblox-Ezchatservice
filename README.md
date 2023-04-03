@@ -1,5 +1,3 @@
-# Roblox-Ezchatservice
-
 # Roblox EZ chat
 
 This is basically a markdown version of the docs script, but whatever
